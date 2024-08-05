@@ -7,7 +7,7 @@ EU,FHC,,,,Y,Label Type,Packaging Component Type,"Label Front, Label Back, Sleeve
 EU,FHC,,,,Y,Material of construction (For LBWR only),Packaging Component Type,Metalized,Enovia,medium
 EU,FHC,,,Y,,Material Type,Packaging Component Type,Film,Enovia,medium
 EU,FHC,,,Y,,Bag Size,Bag Size,"33CT, 50CT, 90CT, 1.95KG, 6X3KG, 2.475KG",Enovia,medium
-EU,FHC,Y,Y,T,Y,MPMP#,MPMP Number,,Enovia,low
+EU,FHC,Y,Y,T,Y,MPMP#,MPMP Number,,Enovia,medium
 EU,FHC,Y,Y,T,T,MPMP Description,MPMP Enovia Description,,Enovia,low
 EU,FHC,Y,,,,BCT /  Compression strength,BCT /  Compression strength,"1000 Newton, 3900 Newton",Enovia,medium
 EU,FHC,Y,Y,T,,ILST/Technical drawing#,ILST/Technical drawing Number,,Enovia,low
